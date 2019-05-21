@@ -48,7 +48,7 @@ int main()
 					Hero.setArriere(false);
 					break;
 				case sf::Keyboard::Up:
-					Hero.setDroit(false);
+					Hero.setGauche(false);
 					break;
 				case sf::Keyboard::Down:
 					Hero.setDroit(false);

@@ -1,10 +1,6 @@
-﻿  Ennemi.cpp
-  Entite.cpp
-  Hero.cpp
+﻿  Entite.cpp
   Main.cpp
 c:\users\baldé\source\repos\game\game\main.cpp(13): warning C4930: 'Entite entite(void)' : fonction prototypée non appelée (était-ce la définition de variable souhaitée ?)
-  Personnage.cpp
-c:\users\baldé\source\repos\game\game\personnage.cpp(17): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
   SpriteAnime.cpp
   Génération de code en cours...
   Game.vcxproj -> C:\Users\Baldé\source\repos\Game\Debug\Game.exe
