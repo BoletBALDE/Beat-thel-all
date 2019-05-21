@@ -9,6 +9,7 @@ int main()
 	sf::Time dureeIteration = sf::Time::Zero;
 	shape.setFillColor(sf::Color::Green);
 	Personnage Hero("Luc", 100,5);
+	//HELLO
 	while (window.isOpen())
 	{
 		sf::Event event;
